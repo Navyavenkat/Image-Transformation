@@ -131,25 +131,25 @@ cv2.destroyAllWindows()
 
 ### iii)Image shearing
 
-![GITHUB](a.png)
+![GITHUB](a.PNG)
 
 
 ### iv)Image Reflection
 
-![LOGO](a1.png)
+![LOGO](a1.PNG)
 
 
 
 ### v)Image Rotation
 
-![REFL](a3.png)
+![REFL](a3.PNG)
 
 
 
 ### vi)Image Cropping
 
 
-![CROP](a2.png)
+![CROP](a2.PNG)
 
 
 
