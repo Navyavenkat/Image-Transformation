@@ -136,20 +136,20 @@ cv2.destroyAllWindows()
 
 ### iv)Image Reflection
 
-![GITHUB](a1.png)
+![LOGO](a1.png)
 
 
 
 ### v)Image Rotation
 
-![GITHUB](a3.png)
+![REFL](a3.png)
 
 
 
 ### vi)Image Cropping
 
 
-![GITHUB](a2.png)
+![CROP](a2.png)
 
 
 
